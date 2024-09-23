@@ -1,0 +1,28 @@
+body {
+    background-color: #e8f1f2;
+}
+
+header {
+    background-color: #1b98e0 ;
+    color: #13293d;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    padding: 5px;
+    text-align: center;
+}
+
+article {
+    text-align:center;
+    font-size: 20px;
+}
+
+.transportepublico {
+    text-align: left;
+}
+
+.biocombustiveis {
+    text-align: left;
+}
+
+.carroseletricos {
+    text-align: left;
+}
