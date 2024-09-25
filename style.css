@@ -1,13 +1,14 @@
 body {
-    background-color: #e8f1f2;
+    background-color: #8cbeff;
 }
 
 header {
     background-color: #1b98e0 ;
-    color: #13293d;
+    color: #ebf1f7;
     font-family: Georgia, 'Times New Roman', Times, serif ;
     padding: 5px;
     text-align: center;
+    border-radius: 15px;
 }
 
 article {
@@ -16,13 +17,50 @@ article {
 }
 
 .transportepublico {
-    text-align: left;
+    text-align: center;
+    background-color: #1b98e0;
+    border-radius: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ebf1f7;
+    padding: 5px;
 }
 
 .biocombustiveis {
-    text-align: left;
+    text-align: center;
+    background-color: #1b98e0;
+    border-radius: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ebf1f7;
+    padding: 5px;
 }
 
 .carroseletricos {
-    text-align: left;
+    text-align: center;
+    background-color: #1b98e0;
+    border-radius: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ebf1f7;
+    padding: 5px;
+}
+
+.tituloindex {
+    background-color: #13293d;
+    color: #e8f1f2;
+    border-radius: 20px;
+    padding: 10px;
+}
+.paragrafo1 {
+    background-color: #1b98e0;
+    border-radius: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ebf1f7;
+    padding: 10px;
+}
+
+.paragrafo2 {
+    background-color: #1b98e0;
+    border-radius: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ebf1f7;
+    padding: 10px;
 }
